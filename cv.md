@@ -2,6 +2,7 @@
 
 ## **About me**
 I am always energetic and eager to learn new skills.
+
 ***********************
 ## **Contacts**
 
@@ -26,6 +27,7 @@ I am always energetic and eager to learn new skills.
 Moscow State University of Technology STANKIN
 * ### Courses
  **ITGirls** - HTML CSS / JS+React (in progress)
+
 ***********************
 ## **Skills**
 * HTML
