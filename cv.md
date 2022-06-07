@@ -1,12 +1,19 @@
 # Inga Petrova
 
+## **About me**
+I am always energetic and eager to learn new skills.
+***********************
 ## **Contacts**
 
 **Location**: Serbia, Belgrade
 
 **Phone**: +381 62 11 66 805
 
+**Telegram**: ingulik91
+
 **E-mail**: inga.webdev@gmail.com
+
+[**LinkedIn**](https://www.linkedin.com/in/inga-petrova-a08a77239)
 
 **GitHub**: inga91
 
